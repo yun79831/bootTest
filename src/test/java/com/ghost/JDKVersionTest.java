@@ -1,4 +1,4 @@
-package com;
+package com.ghost;
 
 import org.junit.Test;
 
